@@ -1,4 +1,4 @@
-FROM openjdk:openjdk:17-alpine
+FROM openjdk:17-alpine
 
 # Setup useful environment variables
 ENV CONF_HOME     /var/atlassian/confluence
